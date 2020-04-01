@@ -2,6 +2,6 @@ logs/
 saves/
 screenshots/
 icon.png
-options.txt
-optionsof.txt
 crafttweaker.log
+usercache.json
+usernamecache.json
