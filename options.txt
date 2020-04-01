@@ -1,7 +1,7 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.25
+fov:0.5
 gamma:0.0
 saturation:0.0
 renderDistance:8
@@ -26,7 +26,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:true
-enableVsync:true
+enableVsync:false
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:false
@@ -51,7 +51,7 @@ realmsNotifications:true
 enableWeakAttacks:false
 autoJump:false
 narrator:0
-tutorialStep:punch_tree
+tutorialStep:none
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -98,7 +98,7 @@ key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

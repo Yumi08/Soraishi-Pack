@@ -5,3 +5,5 @@ icon.png
 crafttweaker.log
 usercache.json
 usernamecache.json
+config/splash.properties
+config/jei/worldSettings.cfg
